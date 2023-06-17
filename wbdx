@@ -101,8 +101,8 @@ http://www.gdff.top:4022/rtp/239.49.8.147:6000
 http://www.gdff.top:4022/rtp/239.49.8.187:6000
 #EXTINF:-1 ,黑龙江卫视
 http://www.gdff.top:4022/rtp/239.49.8.144:6000
-#EXTINF:-1 ,====== 山西卫视.http://www.gdff.top:4022/rtp/239.49.1.51:6000 ======
-http://0/0.m3u8
+#EXTINF:-1 ,山西卫视
+http://www.gdff.top:4022/rtp/239.49.1.51:6000
 #EXTINF:-1 ,贵州卫视
 http://www.gdff.top:4022/rtp/239.49.8.147:6000
 #EXTINF:-1 ,青海卫视
