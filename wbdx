@@ -35,6 +35,12 @@ http://www.gdff.top:4022/rtp/239.49.1.15:6000
 http://www.gdff.top:4022/rtp/239.49.1.9:6000
 #EXTINF:-1 ,CCTV-17农业
 http://www.gdff.top:4022/rtp/239.49.8.132:6000
+#EXTINF:-1 ,南通新闻综合
+http://www.gdff.top:4022/rtp/239.49.0.223:8000
+#EXTINF:-1 ,南通二套
+http://www.gdff.top:4022/rtp/239.49.0.224:8000
+#EXTINF:-1 ,南通三套
+http://www.gdff.top:4022/rtp/239.49.0.197:8000
 #EXTINF:-1 ,江苏卫视
 http://www.gdff.top:4022/rtp/239.49.8.138:6000
 #EXTINF:-1 ,湖南卫视
