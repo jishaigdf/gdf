@@ -49,16 +49,6 @@ http://www.gdff.top:4022/rtp/239.49.8.142:6000
 http://www.gdff.top:4022/rtp/239.49.8.140:6000
 #EXTINF:-1 ,浙江卫视
 http://www.gdff.top:4022/rtp/239.49.8.139:6000
-#EXTINF:-1 ,南通-1新闻
-rtmp://cm.rtmppush.homecdn.com/live/7cc9
-#EXTINF:-1 ,南通-2
-rtmp://cm.rtmppush.homecdn.com/live/7cc7
-#EXTINF:-1 ,南通-3
-rtmp://cm.rtmppush.homecdn.com/live/7cc5
-#EXTINF:-1 ,江海明珠
-rtmp://cm.rtmppush.homecdn.com/live/7cc3
-#EXTINF:-1 ,江海明珠-1
-rtmp://cm.rtmppush.homecdn.com/live/7cc1
 #EXTINF:-1 ,江苏城市
 http://www.gdff.top:4022/rtp/239.49.1.17:6000
 #EXTINF:-1 ,江苏综艺
