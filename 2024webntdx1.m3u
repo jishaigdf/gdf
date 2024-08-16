@@ -1,371 +1,370 @@
-
 #EXTINF:-1 tvg-name="CCTV 1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV 1
-http://wf.gdff.eu.org:14022/rtp/239.49.0.1:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.0.1:8000
 #EXTINF:-1 tvg-name="CCTV 2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV 2
-http://wf.gdff.eu.org:14022/rtp/239.49.0.2:8008
+http://dx.gdff.eu.org:14022/rtp/239.49.0.2:8008
 #EXTINF:-1 tvg-name="CCTV 3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视",CCTV 3
-http://wf.gdff.eu.org:14022/rtp/239.49.0.3:9566
+http://dx.gdff.eu.org:14022/rtp/239.49.0.3:9566
 #EXTINF:-1 tvg-name="CCTV 4 50 FPS" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV 4 50 FPS
-http://wf.gdff.eu.org:14022/rtp/239.49.0.4:8024
+http://dx.gdff.eu.org:14022/rtp/239.49.0.4:8024
 #EXTINF:-1 tvg-name="CCTV 5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV 5
-http://wf.gdff.eu.org:14022/rtp/239.49.0.5:9570
+http://dx.gdff.eu.org:14022/rtp/239.49.0.5:9570
 #EXTINF:-1 tvg-name="CCTV 6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视",CCTV 6
-http://wf.gdff.eu.org:14022/rtp/239.49.0.6:9574
+http://dx.gdff.eu.org:14022/rtp/239.49.0.6:9574
 #EXTINF:-1 tvg-name="CCTV 7 HEVC" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视",CCTV 7 HEVC
-http://wf.gdff.eu.org:14022/rtp/239.49.8.126:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.126:8000
 #EXTINF:-1 tvg-name="CCTV 8 HEVC" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视",CCTV 8 HEVC
-http://wf.gdff.eu.org:14022/rtp/239.49.0.8:9578
+http://dx.gdff.eu.org:14022/rtp/239.49.0.8:9578
 #EXTINF:-1 tvg-name="CCTV 9 HEVC" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视",CCTV 9 HEVC
-http://wf.gdff.eu.org:14022/rtp/239.49.8.53:9814
+http://dx.gdff.eu.org:14022/rtp/239.49.8.53:9814
 #EXTINF:-1 tvg-name="CCTV 10 HEVC" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视",CCTV 10 HEVC
-http://wf.gdff.eu.org:14022/rtp/239.49.0.10:8072
+http://dx.gdff.eu.org:14022/rtp/239.49.0.10:8072
 #EXTINF:-1 tvg-name="CCTV 11 HEVC" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视",CCTV 11 HEVC
-http://wf.gdff.eu.org:14022/rtp/239.49.0.11:8080
+http://dx.gdff.eu.org:14022/rtp/239.49.0.11:8080
 #EXTINF:-1 tvg-name="CCTV 12 HEVC" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视",CCTV 12 HEVC
-http://wf.gdff.eu.org:14022/rtp/239.49.0.12:8088
+http://dx.gdff.eu.org:14022/rtp/239.49.0.12:8088
 #EXTINF:-1 tvg-name="CCTV 13 50 FPS" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",CCTV 13 50 FPS
-http://wf.gdff.eu.org:14022/rtp/239.49.0.13:8096
+http://dx.gdff.eu.org:14022/rtp/239.49.0.13:8096
 #EXTINF:-1 tvg-name="CCTV 14 HEVC" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视",CCTV 14 HEVC
-http://wf.gdff.eu.org:14022/rtp/239.49.0.14:8104
+http://dx.gdff.eu.org:14022/rtp/239.49.0.14:8104
 #EXTINF:-1 tvg-name="CCTV 15 HEVC" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视",CCTV 15 HEVC
-http://wf.gdff.eu.org:14022/rtp/239.49.0.15:8112
+http://dx.gdff.eu.org:14022/rtp/239.49.0.15:8112
 #EXTINF:-1 tvg-name="CGTN记录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="央视",CGTN记录
-http://wf.gdff.eu.org:14022/rtp/239.49.0.9:8064
+http://dx.gdff.eu.org:14022/rtp/239.49.0.9:8064
 #EXTINF:-1 tvg-name="CCTV 17 HEVC" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV 17 HEVC
-http://wf.gdff.eu.org:14022/rtp/239.49.0.7:8048
+http://dx.gdff.eu.org:14022/rtp/239.49.0.7:8048
 #EXTINF:-1 tvg-name="江苏卫视 HEVC" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏卫视 HEVC
-http://wf.gdff.eu.org:14022/rtp/239.49.0.16:8120
+http://dx.gdff.eu.org:14022/rtp/239.49.0.16:8120
 #EXTINF:-1 tvg-name="江苏城市 HEVC" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏城市 HEVC
-http://wf.gdff.eu.org:14022/rtp/239.49.0.17:8128
+http://dx.gdff.eu.org:14022/rtp/239.49.0.17:8128
 #EXTINF:-1 tvg-name="江苏综艺" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏综艺
-http://wf.gdff.eu.org:14022/rtp/239.49.0.18:8136
+http://dx.gdff.eu.org:14022/rtp/239.49.0.18:8136
 #EXTINF:-1 tvg-name="江苏体育休闲" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏体育休闲
-http://wf.gdff.eu.org:14022/rtp/239.49.0.19:8144
+http://dx.gdff.eu.org:14022/rtp/239.49.0.19:8144
 #EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏影视
-http://wf.gdff.eu.org:14022/rtp/239.49.0.20:8152
+http://dx.gdff.eu.org:14022/rtp/239.49.0.20:8152
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",优漫卡通
-http://wf.gdff.eu.org:14022/rtp/239.49.0.21:8160
+http://dx.gdff.eu.org:14022/rtp/239.49.0.21:8160
 #EXTINF:-1 tvg-name="江苏新闻" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏新闻
-http://wf.gdff.eu.org:14022/rtp/239.49.0.149:9186
+http://dx.gdff.eu.org:14022/rtp/239.49.0.149:9186
 #EXTINF:-1 tvg-name="江苏国际" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏国际
-http://wf.gdff.eu.org:14022/rtp/239.49.0.22:8168
+http://dx.gdff.eu.org:14022/rtp/239.49.0.22:8168
 #EXTINF:-1 tvg-name="好享购物" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",好享购物
-http://wf.gdff.eu.org:14022/rtp/239.49.0.103:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.0.103:8000
 #EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏教育
-http://wf.gdff.eu.org:14022/rtp/239.49.0.23:8176
+http://dx.gdff.eu.org:14022/rtp/239.49.0.23:8176
 #EXTINF:-1 tvg-name="环球购物" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",环球购物
-http://wf.gdff.eu.org:14022/rtp/239.49.0.212:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.0.212:8000
 #EXTINF:-1 tvg-name="家有购物" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",家有购物
-http://wf.gdff.eu.org:14022/rtp/239.49.8.124:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.124:8000
 #EXTINF:-1 tvg-name="央广购物" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",央广购物
-http://wf.gdff.eu.org:14022/rtp/239.49.0.110:9014
+http://dx.gdff.eu.org:14022/rtp/239.49.0.110:9014
 #EXTINF:-1 tvg-name="财富天下" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",财富天下
-http://wf.gdff.eu.org:14022/rtp/239.49.0.166:9322
+http://dx.gdff.eu.org:14022/rtp/239.49.0.166:9322
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",东方卫视
-http://wf.gdff.eu.org:14022/rtp/239.49.0.48:8376
+http://dx.gdff.eu.org:14022/rtp/239.49.0.48:8376
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",北京卫视
-http://wf.gdff.eu.org:14022/rtp/239.49.0.49:8384
+http://dx.gdff.eu.org:14022/rtp/239.49.0.49:8384
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",浙江卫视
-http://wf.gdff.eu.org:14022/rtp/239.49.0.50:8392
+http://dx.gdff.eu.org:14022/rtp/239.49.0.50:8392
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",辽宁卫视
-http://wf.gdff.eu.org:14022/rtp/239.49.0.51:8400
+http://dx.gdff.eu.org:14022/rtp/239.49.0.51:8400
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",安徽卫视
-http://wf.gdff.eu.org:14022/rtp/239.49.0.52:8408
+http://dx.gdff.eu.org:14022/rtp/239.49.0.52:8408
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",山东卫视
-http://wf.gdff.eu.org:14022/rtp/239.49.0.53:8416
+http://dx.gdff.eu.org:14022/rtp/239.49.0.53:8416
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",湖南卫视
-http://wf.gdff.eu.org:14022/rtp/239.49.0.54:8424
+http://dx.gdff.eu.org:14022/rtp/239.49.0.54:8424
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",广东卫视
-http://wf.gdff.eu.org:14022/rtp/239.49.0.55:8432
+http://dx.gdff.eu.org:14022/rtp/239.49.0.55:8432
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",广西卫视
-http://wf.gdff.eu.org:14022/rtp/239.49.0.56:8440
+http://dx.gdff.eu.org:14022/rtp/239.49.0.56:8440
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",海南卫视
-http://wf.gdff.eu.org:14022/rtp/239.49.0.57:8448
+http://dx.gdff.eu.org:14022/rtp/239.49.0.57:8448
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",重庆卫视
-http://wf.gdff.eu.org:14022/rtp/239.49.0.58:8456
+http://dx.gdff.eu.org:14022/rtp/239.49.0.58:8456
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",四川卫视
-http://wf.gdff.eu.org:14022/rtp/239.49.0.59:8464
+http://dx.gdff.eu.org:14022/rtp/239.49.0.59:8464
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",河南卫视
-http://wf.gdff.eu.org:14022/rtp/239.49.0.60:8472
+http://dx.gdff.eu.org:14022/rtp/239.49.0.60:8472
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",东南卫视
-http://wf.gdff.eu.org:14022/rtp/239.49.0.61:8480
+http://dx.gdff.eu.org:14022/rtp/239.49.0.61:8480
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",天津卫视
-http://wf.gdff.eu.org:14022/rtp/239.49.0.62:8488
+http://dx.gdff.eu.org:14022/rtp/239.49.0.62:8488
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江西卫视
-http://wf.gdff.eu.org:14022/rtp/239.49.0.63:8496
+http://dx.gdff.eu.org:14022/rtp/239.49.0.63:8496
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",湖北卫视
-http://wf.gdff.eu.org:14022/rtp/239.49.0.64:8504
+http://dx.gdff.eu.org:14022/rtp/239.49.0.64:8504
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",吉林卫视
-http://wf.gdff.eu.org:14022/rtp/239.49.0.65:8512
+http://dx.gdff.eu.org:14022/rtp/239.49.0.65:8512
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",黑龙江卫视
-http://wf.gdff.eu.org:14022/rtp/239.49.0.66:8520
+http://dx.gdff.eu.org:14022/rtp/239.49.0.66:8520
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",山西卫视
-http://wf.gdff.eu.org:14022/rtp/239.49.0.67:8528
+http://dx.gdff.eu.org:14022/rtp/239.49.0.67:8528
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",贵州卫视
-http://wf.gdff.eu.org:14022/rtp/239.49.0.68:8536
+http://dx.gdff.eu.org:14022/rtp/239.49.0.68:8536
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",CETV1
-http://wf.gdff.eu.org:14022/rtp/239.49.0.70:8552
+http://dx.gdff.eu.org:14022/rtp/239.49.0.70:8552
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",深圳卫视
-http://wf.gdff.eu.org:14022/rtp/239.49.0.100:8788
+http://dx.gdff.eu.org:14022/rtp/239.49.0.100:8788
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",云南卫视
-http://wf.gdff.eu.org:14022/rtp/239.49.0.147:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.0.147:8000
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",河北卫视
-http://wf.gdff.eu.org:14022/rtp/239.49.0.170:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.0.170:8000
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",宁夏卫视
-http://wf.gdff.eu.org:14022/rtp/239.49.0.171:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.0.171:8000
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",甘肃卫视
-http://wf.gdff.eu.org:14022/rtp/239.49.0.172:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.0.172:8000
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",新疆卫视
-http://wf.gdff.eu.org:14022/rtp/239.49.0.178:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.0.178:8000
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",内蒙古卫视
-http://wf.gdff.eu.org:14022/rtp/239.49.0.180:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.0.180:8000
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",西藏卫视
-http://wf.gdff.eu.org:14022/rtp/239.49.0.245:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.0.245:8000
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",三沙卫视
-http://wf.gdff.eu.org:14022/rtp/239.49.0.165:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.0.165:8000
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",第一剧场
-http://wf.gdff.eu.org:14022/rtp/239.49.0.44:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.0.44:8000
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",电视指南
-http://wf.gdff.eu.org:14022/rtp/239.49.0.161:9282
+http://dx.gdff.eu.org:14022/rtp/239.49.0.161:9282
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",风云足球
-http://wf.gdff.eu.org:14022/rtp/239.49.0.153:9218
+http://dx.gdff.eu.org:14022/rtp/239.49.0.153:9218
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",高尔夫网球
-http://wf.gdff.eu.org:14022/rtp/239.49.0.154:9226
+http://dx.gdff.eu.org:14022/rtp/239.49.0.154:9226
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",世界地理
-http://wf.gdff.eu.org:14022/rtp/239.49.0.155:9234
+http://dx.gdff.eu.org:14022/rtp/239.49.0.155:9234
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",兵器科技
-http://wf.gdff.eu.org:14022/rtp/239.49.0.160:9274
+http://dx.gdff.eu.org:14022/rtp/239.49.0.160:9274
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",风云剧场
-http://wf.gdff.eu.org:14022/rtp/239.49.0.152:9210
+http://dx.gdff.eu.org:14022/rtp/239.49.0.152:9210
 #EXTINF:-1 tvg-name="央视精品" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",央视精品
-http://wf.gdff.eu.org:14022/rtp/239.49.0.156:9242
+http://dx.gdff.eu.org:14022/rtp/239.49.0.156:9242
 #EXTINF:-1 tvg-name="央视怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",央视怀旧剧场
-http://wf.gdff.eu.org:14022/rtp/239.49.0.157:9250
+http://dx.gdff.eu.org:14022/rtp/239.49.0.157:9250
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",风云音乐
-http://wf.gdff.eu.org:14022/rtp/239.49.0.151:9202
+http://dx.gdff.eu.org:14022/rtp/239.49.0.151:9202
 #EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",女性时尚
-http://wf.gdff.eu.org:14022/rtp/239.49.0.159:9266
+http://dx.gdff.eu.org:14022/rtp/239.49.0.159:9266
 #EXTINF:-1 tvg-name="快乐垂钓HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",快乐垂钓HD
-http://wf.gdff.eu.org:14022/rtp/239.49.0.114:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.0.114:8000
 #EXTINF:-1 tvg-name="先锋乒羽" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",先锋乒羽
-http://wf.gdff.eu.org:14022/rtp/239.49.0.145:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.0.145:8000
 #EXTINF:-1 tvg-name="茶HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",茶HD
-http://wf.gdff.eu.org:14022/rtp/239.49.0.146:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.0.146:8000
 #EXTINF:-1 tvg-name="梨园HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",梨园HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.193:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.193:8000
 #EXTINF:-1 tvg-name="武术世界HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",武术世界HD
-http://wf.gdff.eu.org:14022/rtp/239.49.0.205:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.0.205:8000
 #EXTINF:-1 tvg-name="文物宝库HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",文物宝库HD
-http://wf.gdff.eu.org:14022/rtp/239.49.0.209:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.0.209:8000
 #EXTINF:-1 tvg-name="南通1套" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",南通1套
-http://wf.gdff.eu.org:14022/rtp/239.49.0.223:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.0.223:8000
 #EXTINF:-1 tvg-name="南通2套" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",南通2套
-http://wf.gdff.eu.org:14022/rtp/239.49.0.224:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.0.224:8000
 #EXTINF:-1 tvg-name="南通3套" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",南通3套
-http://wf.gdff.eu.org:14022/rtp/239.49.0.197:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.0.197:8000
 #EXTINF:-1 tvg-name="精彩推荐" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",精彩推荐
-http://wf.gdff.eu.org:14022/rtp/239.49.0.190:9458
+http://dx.gdff.eu.org:14022/rtp/239.49.0.190:9458
 #EXTINF:-1 tvg-name="书画频道" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",书画频道
-http://wf.gdff.eu.org:14022/rtp/239.49.0.123:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.0.123:8000
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",陕西卫视
-http://wf.gdff.eu.org:14022/rtp/239.49.0.233:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.0.233:8000
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",大湾区卫视
-http://wf.gdff.eu.org:14022/rtp/239.49.0.234:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.0.234:8000
 #EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",山东教育卫视
-http://wf.gdff.eu.org:14022/rtp/239.49.0.235:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.0.235:8000
 #EXTINF:-1 tvg-name="CCTV164K（SDR）" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",CCTV164K（SDR）
-http://wf.gdff.eu.org:14022/rtp/239.49.0.109:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.0.109:8000
 #EXTINF:-1 tvg-name="直播室1" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",直播室1
-http://wf.gdff.eu.org:14022/rtp/239.49.8.151:6000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.151:6000
 #EXTINF:-1 tvg-name="直播室2" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",直播室2
-http://wf.gdff.eu.org:14022/rtp/239.49.8.63:9354
+http://dx.gdff.eu.org:14022/rtp/239.49.8.63:9354
 #EXTINF:-1 tvg-name="CCTV1HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",CCTV1HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.19:9614
+http://dx.gdff.eu.org:14022/rtp/239.49.8.19:9614
 #EXTINF:-1 tvg-name="CCTV2HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",CCTV2HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.50:9802
+http://dx.gdff.eu.org:14022/rtp/239.49.8.50:9802
 #EXTINF:-1 tvg-name="CCTV3HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",CCTV3HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.74:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.74:8000
 #EXTINF:-1 tvg-name="CCTV4HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",CCTV4HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.51:9806
+http://dx.gdff.eu.org:14022/rtp/239.49.8.51:9806
 #EXTINF:-1 tvg-name="CCTV5HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",CCTV5HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.75:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.75:8000
 #EXTINF:-1 tvg-name="CCTV6HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",CCTV6HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.76:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.76:8000
 #EXTINF:-1 tvg-name="CCTV7HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",CCTV7HD
-http://wf.gdff.eu.org:14022/rtp/239.49.0.126:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.0.126:8000
 #EXTINF:-1 tvg-name="CCTV8HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",CCTV8HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.77:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.77:8000
 #EXTINF:-1 tvg-name="CCTV10HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",CCTV10HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.54:9818
+http://dx.gdff.eu.org:14022/rtp/239.49.8.54:9818
 #EXTINF:-1 tvg-name="CCTV11HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",CCTV11HD
-http://wf.gdff.eu.org:14022/rtp/239.49.0.127:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.0.127:8000
 #EXTINF:-1 tvg-name="CCTV12HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",CCTV12HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.55:9822
+http://dx.gdff.eu.org:14022/rtp/239.49.8.55:9822
 #EXTINF:-1 tvg-name="CCTV13HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",CCTV13HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.109:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.109:8000
 #EXTINF:-1 tvg-name="CCTV14HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",CCTV14HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.56:9826
+http://dx.gdff.eu.org:14022/rtp/239.49.8.56:9826
 #EXTINF:-1 tvg-name="CCTV音乐HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",CCTV音乐HD
-http://wf.gdff.eu.org:14022/rtp/239.49.0.128:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.0.128:8000
 #EXTINF:-1 tvg-name="CCTV16HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",CCTV16HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.31:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.31:8000
 #EXTINF:-1 tvg-name="CCTV17HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",CCTV17HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.52:9810
+http://dx.gdff.eu.org:14022/rtp/239.49.8.52:9810
 #EXTINF:-1 tvg-name="CCTV5HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",CCTV5HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.18:9610
+http://dx.gdff.eu.org:14022/rtp/239.49.8.18:9610
 #EXTINF:-1 tvg-name="CGTN俄语HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",CGTN俄语HD
-http://wf.gdff.eu.org:14022/rtp/239.49.0.111:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.0.111:8000
 #EXTINF:-1 tvg-name="江苏卫视HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏卫视HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.16:9602
+http://dx.gdff.eu.org:14022/rtp/239.49.8.16:9602
 #EXTINF:-1 tvg-name="江苏城市HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏城市HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.107:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.107:8000
 #EXTINF:-1 tvg-name="江苏综艺HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏综艺HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.108:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.108:8000
 #EXTINF:-1 tvg-name="江苏体育休闲HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏体育休闲HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.117:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.117:8000
 #EXTINF:-1 tvg-name="江苏影视HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏影视HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.118:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.118:8000
 #EXTINF:-1 tvg-name="优漫卡通HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",优漫卡通HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.119:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.119:8000
 #EXTINF:-1 tvg-name="好享购物HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",好享购物HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.121:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.121:8000
 #EXTINF:-1 tvg-name="江苏教育HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏教育HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.122:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.122:8000
 #EXTINF:-1 tvg-name="广西卫视HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",广西卫视HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.10:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.10:8000
 #EXTINF:-1 tvg-name="天津卫视HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",天津卫视HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.35:8620
+http://dx.gdff.eu.org:14022/rtp/239.49.8.35:8620
 #EXTINF:-1 tvg-name="浙江卫视HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",浙江卫视HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.20:9618
+http://dx.gdff.eu.org:14022/rtp/239.49.8.20:9618
 #EXTINF:-1 tvg-name="重庆卫视HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",重庆卫视HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.57:9830
+http://dx.gdff.eu.org:14022/rtp/239.49.8.57:9830
 #EXTINF:-1 tvg-name="环球购物HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",环球购物HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.123:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.123:8000
 #EXTINF:-1 tvg-name="辽宁卫视HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",辽宁卫视HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.48:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.48:8000
 #EXTINF:-1 tvg-name="海南卫视HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",海南卫视HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.83:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.83:8000
 #EXTINF:-1 tvg-name="四川卫视HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",四川卫视HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.110:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.110:8000
 #EXTINF:-1 tvg-name="江西卫视HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江西卫视HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.111:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.111:8000
 #EXTINF:-1 tvg-name="东南卫视HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",东南卫视HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.112:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.112:8000
 #EXTINF:-1 tvg-name="吉林卫视HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",吉林卫视HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.113:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.113:8000
 #EXTINF:-1 tvg-name="河北卫视HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",河北卫视HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.114:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.114:8000
 #EXTINF:-1 tvg-name="东方卫视HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",东方卫视HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.17:9606
+http://dx.gdff.eu.org:14022/rtp/239.49.8.17:9606
 #EXTINF:-1 tvg-name="北京卫视HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",北京卫视HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.11:9414
+http://dx.gdff.eu.org:14022/rtp/239.49.8.11:9414
 #EXTINF:-1 tvg-name="湖南卫视HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",湖南卫视HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.12:9418
+http://dx.gdff.eu.org:14022/rtp/239.49.8.12:9418
 #EXTINF:-1 tvg-name="广东卫视HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",广东卫视HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.13:9422
+http://dx.gdff.eu.org:14022/rtp/239.49.8.13:9422
 #EXTINF:-1 tvg-name="黑龙江卫视HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",黑龙江卫视HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.14:9426
+http://dx.gdff.eu.org:14022/rtp/239.49.8.14:9426
 #EXTINF:-1 tvg-name="深圳卫视HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",深圳卫视HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.15:9430
+http://dx.gdff.eu.org:14022/rtp/239.49.8.15:9430
 #EXTINF:-1 tvg-name="云南卫视HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",云南卫视HD
-http://wf.gdff.eu.org:14022/rtp/239.49.0.177:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.0.177:8000
 #EXTINF:-1 tvg-name="山东卫视HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",山东卫视HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.7:9306
+http://dx.gdff.eu.org:14022/rtp/239.49.8.7:9306
 #EXTINF:-1 tvg-name="精彩推荐高清" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",精彩推荐高清
-http://wf.gdff.eu.org:14022/rtp/239.49.8.34:8612
+http://dx.gdff.eu.org:14022/rtp/239.49.8.34:8612
 #EXTINF:-1 tvg-name="CETV1HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",CETV1HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.115:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.115:8000
 #EXTINF:-1 tvg-name="贵州卫视HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",贵州卫视HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.49:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.49:8000
 #EXTINF:-1 tvg-name="安徽卫视HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",安徽卫视HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.80:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.80:8000
 #EXTINF:-1 tvg-name="湖北卫视HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",湖北卫视HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.8:9632
+http://dx.gdff.eu.org:14022/rtp/239.49.8.8:9632
 #EXTINF:-1 tvg-name="CETV4HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",CETV4HD
-http://wf.gdff.eu.org:14022/rtp/239.49.0.125:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.0.125:8000
 #EXTINF:-1 tvg-name="河南卫视HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",河南卫视HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.29:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.29:8000
 #EXTINF:-1 tvg-name="三沙卫视HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",三沙卫视HD
-http://wf.gdff.eu.org:14022/rtp/239.49.0.167:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.0.167:8000
 #EXTINF:-1 tvg-name="甘肃卫视HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",甘肃卫视HD
-http://wf.gdff.eu.org:14022/rtp/239.49.0.250:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.0.250:8000
 #EXTINF:-1 tvg-name="金鹰纪实HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",金鹰纪实HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.79:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.79:8000
 #EXTINF:-1 tvg-name="第一剧场HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",第一剧场HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.94:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.94:8000
 #EXTINF:-1 tvg-name="电视指南HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",电视指南HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.84:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.84:8000
 #EXTINF:-1 tvg-name="风云足球HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",风云足球HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.85:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.85:8000
 #EXTINF:-1 tvg-name="高尔夫网球HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",高尔夫网球HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.86:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.86:8000
 #EXTINF:-1 tvg-name="世界地理HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",世界地理HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.87:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.87:8000
 #EXTINF:-1 tvg-name="兵器科技HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",兵器科技HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.88:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.88:8000
 #EXTINF:-1 tvg-name="风云剧场HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",风云剧场HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.89:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.89:8000
 #EXTINF:-1 tvg-name="央视精品HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",央视精品HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.90:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.90:8000
 #EXTINF:-1 tvg-name="央视怀旧剧场HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",央视怀旧剧场HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.91:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.91:8000
 #EXTINF:-1 tvg-name="风云音乐HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",风云音乐HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.92:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.92:8000
 #EXTINF:-1 tvg-name="女性时尚HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",女性时尚HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.93:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.93:8000
 #EXTINF:-1 tvg-name="央视台球HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",央视台球HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.32:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.32:8000
 #EXTINF:-1 tvg-name="金鹰卡通HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",金鹰卡通HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.33:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.33:8000
 #EXTINF:-1 tvg-name="空中课堂" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",空中课堂
-http://wf.gdff.eu.org:14022/rtp/239.49.0.72:8568
+http://dx.gdff.eu.org:14022/rtp/239.49.0.72:8568
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",青海卫视
-http://wf.gdff.eu.org:14022/rtp/239.49.0.69:8544
+http://dx.gdff.eu.org:14022/rtp/239.49.0.69:8544
 #EXTINF:-1 tvg-name="江苏新闻HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏新闻HD
-http://wf.gdff.eu.org:14022/rtp/239.49.8.120:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.120:8000
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",CETV2
-http://wf.gdff.eu.org:14022/rtp/239.49.0.71:8560
+http://dx.gdff.eu.org:14022/rtp/239.49.0.71:8560
 #EXTINF:-1 tvg-name="多机位2" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",多机位2
-http://wf.gdff.eu.org:14022/rtp/239.49.8.66:9372
+http://dx.gdff.eu.org:14022/rtp/239.49.8.66:9372
 #EXTINF:-1 tvg-name="多机位6" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",多机位6
-http://wf.gdff.eu.org:14022/rtp/239.49.0.251:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.0.251:8000
 #EXTINF:-1 tvg-name="多机位7" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",多机位7
-http://wf.gdff.eu.org:14022/rtp/239.49.0.191:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.0.191:8000
 #EXTINF:-1 tvg-name="4K跨年直播1" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",4K跨年直播1
-http://wf.gdff.eu.org:14022/rtp/239.49.8.38:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.38:8000
 #EXTINF:-1 tvg-name="开机直播专用" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",开机直播专用
-http://wf.gdff.eu.org:14022/rtp/239.49.0.1:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.0.1:8000
 #EXTINF:-1 tvg-name="多机位5" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",多机位5
-http://wf.gdff.eu.org:14022/rtp/239.49.8.69:9384
+http://dx.gdff.eu.org:14022/rtp/239.49.8.69:9384
 #EXTINF:-1 tvg-name="央广购物HD" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",央广购物HD
-http://wf.gdff.eu.org:14022/rtp/239.49.0.39:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.0.39:8000
 #EXTINF:-1 tvg-name="4K跨年直播2" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",4K跨年直播2
-http://wf.gdff.eu.org:14022/rtp/239.49.8.82:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.82:8000
 #EXTINF:-1 tvg-name="多机位1" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",多机位1
-http://wf.gdff.eu.org:14022/rtp/239.49.8.65:9368
+http://dx.gdff.eu.org:14022/rtp/239.49.8.65:9368
 #EXTINF:-1 tvg-name="多机位3" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",多机位3
-http://wf.gdff.eu.org:14022/rtp/239.49.8.67:9376
+http://dx.gdff.eu.org:14022/rtp/239.49.8.67:9376
 #EXTINF:-1 tvg-name="江苏卫视高清" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏卫视高清
-http://wf.gdff.eu.org:14022/rtp/239.49.8.68:9380
+http://dx.gdff.eu.org:14022/rtp/239.49.8.68:9380
 #EXTINF:-1 tvg-name="多画面导航" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",多画面导航
-http://wf.gdff.eu.org:14022/rtp/239.49.8.73:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.73:8000
 #EXTINF:-1 tvg-name="CBA直播2" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",CBA直播2
-http://wf.gdff.eu.org:14022/rtp/239.49.8.97:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.97:8000
 #EXTINF:-1 tvg-name="CBA直播7" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",CBA直播7
-http://wf.gdff.eu.org:14022/rtp/239.49.8.97:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.97:8000
 #EXTINF:-1 tvg-name="CBA直播3" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",CBA直播3
-http://wf.gdff.eu.org:14022/rtp/239.49.8.93:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.93:8000
 #EXTINF:-1 tvg-name="CBA直播4" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",CBA直播4
-http://wf.gdff.eu.org:14022/rtp/239.49.8.94:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.94:8000
 #EXTINF:-1 tvg-name="CBA直播1" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",CBA直播1
-http://wf.gdff.eu.org:14022/rtp/239.49.8.91:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.91:8000
 #EXTINF:-1 tvg-name="篮球世界" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",篮球世界
-http://wf.gdff.eu.org:14022/rtp/239.49.8.105:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.105:8000
 #EXTINF:-1 tvg-name="CBA直播5" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",CBA直播5
-http://wf.gdff.eu.org:14022/rtp/239.49.8.95:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.95:8000
 #EXTINF:-1 tvg-name="CBA直播8" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",CBA直播8
-http://wf.gdff.eu.org:14022/rtp/239.49.8.98:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.98:8000
 #EXTINF:-1 tvg-name="羽毛球直播" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",羽毛球直播
-http://wf.gdff.eu.org:14022/rtp/239.49.8.104:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.104:8000
 #EXTINF:-1 tvg-name="CBA直播6" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",CBA直播6
-http://wf.gdff.eu.org:14022/rtp/239.49.8.96:8000
+http://dx.gdff.eu.org:14022/rtp/239.49.8.96:8000
