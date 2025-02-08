@@ -42,6 +42,12 @@ http://223.110.241.139:6610/gitv/live1/G_BEIJING-CQ/G_BEIJING-CQ/
 http://223.110.241.139:6610/gitv/live1/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ/
 #EXTINF:-1 tvg-name="东方卫视超清-8M" tvg-logo="https://live.fanmingming.com/tv/东方卫视超清-8M.png" group-title="央视",东方卫视超清-8M
 http://223.110.241.139:6610/gitv/live1/G_DONGFANG-CQ/G_DONGFANG-CQ/
+#EXTINF:-1 tvg-name="南通新闻综合" tvg-logo="https://live.fanmingming.com/tv/东方卫视超清-8M.png" group-title="央视",东方卫视超清-8M
+http://ott.mobaibox.com/PLTV/3/224/3221228462/index.m3u8
+#EXTINF:-1 tvg-name="南通2" tvg-logo="https://live.fanmingming.com/tv/东方卫视超清-8M.png" group-title="央视",东方卫视超清-8M
+http://ott.mobaibox.com/PLTV/3/224/3221228448/index.m3u8
+#EXTINF:-1 tvg-name="南通3" tvg-logo="https://live.fanmingming.com/tv/东方卫视超清-8M.png" group-title="央视",东方卫视超清-8M
+http://ott.mobaibox.com/PLTV/3/224/3221228451/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-NEWS" tvg-logo="https://live.fanmingming.com/tv/CCTV-NEWS.png" group-title="央视",CCTV-NEWS
 http://223.110.241.139:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS/
 #EXTINF:-1 tvg-name="CETV-1" tvg-logo="https://live.fanmingming.com/tv/CETV-1.png" group-title="央视",CETV-1
