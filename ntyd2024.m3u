@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1高清
-http://223.110.241.139:6610/gitv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ/
+http://ott.mobaibox.com/PLTV/3/224/3221228049/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-2高清" tvg-logo="https://live.fanmingming.com/tv/CCTV-2高清.png" group-title="央视",CCTV-2高清
 http://223.110.241.139:6610/gitv/live1/G_CCTV-2-HD/G_CCTV-2-HD/
 #EXTINF:-1 tvg-name="CCTV-3超清" tvg-logo="https://live.fanmingming.com/tv/CCTV-3超清.png" group-title="央视",CCTV-3超清
