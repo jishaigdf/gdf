@@ -105,5 +105,9 @@ http://192.168.123.1:14022/rtp/239.49.8.92:8000
 http://192.168.123.1:14022/rtp/239.49.8.94:8000
 #EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="央视频道",女性时尚
 http://192.168.123.1:14022/rtp/239.49.8.93:8000
-#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="央视频道",风云足球
-http://192.168.123.1:14022/rtp/239.49.
+#EXTINF:-1 tvg-name="南通1套" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",南通1套
+http://192.168.123.1:14022/rtp/239.49.0.223:8000
+#EXTINF:-1 tvg-name="南通2套" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",南通2套
+http://192.168.123.1:14022/rtp/239.49.0.224:8000
+#EXTINF:-1 tvg-name="南通3套" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",南通3套
+http://192.168.123.1:14022/rtp/239.49.0.197:8000
