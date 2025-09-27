@@ -58,7 +58,7 @@ http://192.168.123.1:14022/rtp/239.49.8.10:8000
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
 http://192.168.123.1:14022/rtp/239.49.8.16:9602
 #EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://192.168.123.1:14022/rtp/239.49.0.253:8000
+http://192.168.123.1:14022/rtp/239.49.1.62:8000
 #EXTINF:-1 tvg-name="江苏综艺" tvg-logo="https://live.fanmingming.com/tv/江苏综艺.png" group-title="卫视频道",江苏综艺
 http://192.168.123.1:14022/rtp/239.49.0.18:8136
 #EXTINF:-1 tvg-name="江苏体育" tvg-logo="https://live.fanmingming.com/tv/江苏体育.png" group-title="卫视频道",江苏体育
