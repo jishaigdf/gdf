@@ -185,6 +185,12 @@ http://192.168.123.1:14022/rtp/239.49.8.116:8000
 http://192.168.123.1:14022/rtp/239.49.0.215:8000
 #EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="未分类",盐城-1
 http://192.168.123.1:14022/rtp/239.49.8.30:8000
+#EXTINF:-1 tvg-name="南通1套" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",南通1套
+http://192.168.123.1:14022/rtp/239.49.0.223:8000
+#EXTINF:-1 tvg-name="南通2套" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",南通2套
+http://192.168.123.1:14022/rtp/239.49.0.224:8000
+#EXTINF:-1 tvg-name="南通3套" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",南通3套
+http://192.168.123.1:14022/rtp/239.49.0.197:8000
 #EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="未分类",晴彩青少
 http://192.168.123.1:14022/rtp/239.49.8.46:8000
 #EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="未分类",中国天气
